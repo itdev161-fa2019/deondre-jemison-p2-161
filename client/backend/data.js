@@ -1,6 +1,6 @@
 // backend/data.js
 const mongoose = require("mongoose");
-const SChema = mongoose.Schema;
+const Schema = mongoose.Schema;
 
 // this will be our database's data structure
 const dataSchema = new Schema(

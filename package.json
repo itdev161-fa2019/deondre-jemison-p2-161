@@ -11,10 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/itdev161-fa2019/deondre-jemison-p2-161.git"
   },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.2",
+    "express": "^4.17.1",
+    "express-stormpath": "^4.0.0",
+    "webpack": "^4.41.3"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itdev161-fa2019/deondre-jemison-p2-161/issues"
   },
-  "homepage": "https://github.com/itdev161-fa2019/deondre-jemison-p2-161#readme"
+  "homepage": "https://github.com/itdev161-fa2019/deondre-jemison-p2-161#readme",
+  "keywords": [],
+  "devDependencies": {
+    "webpack-dev-middleware": "^3.7.2"
+  }
 }
